@@ -1,2 +1,1 @@
-# titanic
-Predicting Survival on the Titanic (a Kaggle Competition)
+# Predicting Survival on the Titanic (a Kaggle competition)
